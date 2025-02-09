@@ -1,4 +1,4 @@
-# Elevator Challenge Documentation
+# 電梯挑戰文件
 
 電梯挑戰 [Elevator Challenge](https://dianti.secondspace.dev/) 的目標是要求工程師開發一個 高效能的機器人（bot），來模擬 電梯運行，並根據 乘客的請求 來調度電梯，使其以最佳方式運行，以達到 最短等待時間 和 最少移動成本 的目標。 🚀
 
