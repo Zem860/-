@@ -60,7 +60,7 @@
 | replay\_url | string | 這場模擬的重播連結 | 最終回合 |
 | running | boolean | 這場模擬是否仍在運行 | 每回合（最終回合時為 false） |
 | score | int | 總得分 | 最終回合 |
-| token | string | 此模擬的識別碼，必須在所有後續的請求中附上 | 初始回合 |
+| token | string | 此模擬的識別碼，必須在所有後續的請求中附上 | 第一回合 |
 
 以下是 `elevators` 欄位的資料：
 
